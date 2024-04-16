@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'QuickLimeLuxe.wsgi.application'
+WSGI_APPLICATION = 'QuickLimeLuxe.wsgi.app'
 
 
 # Database
